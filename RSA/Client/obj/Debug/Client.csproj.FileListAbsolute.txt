@@ -1,0 +1,12 @@
+D:\An ninh mạng\RSA\Client\bin\Debug\Client.exe.config
+D:\An ninh mạng\RSA\Client\bin\Debug\Client.exe
+D:\An ninh mạng\RSA\Client\bin\Debug\Client.pdb
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.Client.resources
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.Properties.Resources.resources
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.exe
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.pdb
+D:\An ninh mạng\RSA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\An ninh mạng\BTCK - Võ Ngọc Sơn - 4151050041\RSA\Client\bin\Debug\Client.exe.config
+D:\An ninh mạng\BTCK - Võ Ngọc Sơn - 4151050041\RSA\Client\obj\Debug\Client.exe
+D:\An ninh mạng\BTCK - Võ Ngọc Sơn - 4151050041\RSA\Client\obj\Debug\Client.pdb
